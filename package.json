@@ -1,0 +1,24 @@
+{
+  "name": "turing-test",
+  "version": "1.0.0",
+  "description": "Coding Challenge for Job",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^13.7.7",
+    "typescript": "^3.8.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/839998664/Turing-Test.git"
+  },
+  "author": "Siddharth Seth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/839998664/Turing-Test/issues"
+  },
+  "homepage": "https://github.com/839998664/Turing-Test#readme"
+}
